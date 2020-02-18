@@ -50,8 +50,8 @@ Signpost is an app/desktop website that lets people experiencing or at risk of h
 #### Initial Exploration
 
 <p float="left">
-<img src="https://imgur.com/Dxz4Pws.jpg" width="400">
-<img src="https://imgur.com/JvDTjEz.jpg" width="300">
+<img src="https://imgur.com/Dxz4Pws.jpg">
+<img src="https://imgur.com/JvDTjEz.jpg">
 </p>
 
 #### Moodboard and similar services
@@ -104,10 +104,10 @@ We made a list of all the 'screens' and divided them up between us
 
 ##### Figma snapshots
 
-![](https://i.imgur.com/GuOQCWf.png =500x)
-![](https://i.imgur.com/xZDmCoX.png =400x)
+![](https://i.imgur.com/GuOQCWf.png )
+![](https://i.imgur.com/xZDmCoX.png)
 ![](https://i.imgur.com/xwhVcSq.png)
-![](https://i.imgur.com/5b621aM.png =450x)
+![](https://i.imgur.com/5b621aM.png)
 
 #### User Testing
 
@@ -212,7 +212,5 @@ React, Express, AirTable Google Maps API, Google Geocoding API
 
 ![](https://i.imgur.com/Xburh7t.png)
 
-https://www.canva.com/design/DADyewMfXjQ/iKPmKiOdVbBxuggMUKcB1A/view?utm_content=DADyewMfXjQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-
-We used canvas for our presentation, amending the style to match our design scheme.
+We used canvas for our [presentation](https://www.canva.com/design/DADyewMfXjQ/iKPmKiOdVbBxuggMUKcB1A/view?utm_content=DADyewMfXjQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink), amending the style to match our design scheme.
 To make it more interesting, and to learn from each other, we decided to talk about what another team member had worked on. We pulled up interesting cases and specific elements in order to highlight important points.
